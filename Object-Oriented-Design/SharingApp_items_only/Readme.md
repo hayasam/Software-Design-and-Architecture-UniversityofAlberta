@@ -12,3 +12,4 @@ In the application’s current state:
 * When an item’s status is changed to “Borrowed”, the owner must select the borrower from the owner’s list of contacts.
 * The owner can edit or delete a contact, but only if the contact is not currently borrowing an item.
 
+
